@@ -142,7 +142,7 @@ a{
   position: absolute;
   background-color: #fff;
   top: 0px;
-  /* color: black !important; */
+  color: black; 
   left: 0;
   right: 0;
   bottom: 0px;
